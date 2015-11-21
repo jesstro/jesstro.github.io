@@ -1,5 +1,1 @@
-## About
-
-Jessica Trowbridge personal site using Jekyll
-
-
+# Jessica Trowbridge personal website
