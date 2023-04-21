@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+image: jesspic.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jess_trowpuente
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jessica-trowbridge-phd-mph-736b4b4
+---
+
+I'm a public health scientist currently working at UCSF Program on [Reproductive Health and the Environment](https://prhe.ucsf.edu/).
