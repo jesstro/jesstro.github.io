@@ -12,4 +12,4 @@ about:
       href: https://www.linkedin.com/in/jessica-trowbridge-phd-mph-736b4b4
 ---
 
-I'm a public health scientist currently working at UCSF Program on [Reproductive Health and the Environment](https://prhe.ucsf.edu/).
+I'm a research scientist with the [Program on Reproductive Health and the Environment](https://prhe.ucsf.edu/), University of California San Francisco. 
