@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I had the fortune of growing up in California (USA) and Michoacan (Mexico). While living in Mexico I became aware from an early age that pollution can cause ill health and contribute to health disparities. I remember suffering from burning eyes and headaches when I visited Mexico City---the most polluted city in the world throughout the 1980’s---and wondering how the air pollution, unregulated pesticide use, or burning trash in villages might affect the health of the surrounding communities.\nThese questions stayed with me through college at UC Berkeley, while earning my BS in Molecular Environmental Biology, where I learned to describe what I had seen growing up in a developing country. It became clear to me that one’s surroundings can have long-term consequences on health and disparities were also apparent in the communities where I lived in the United States---disproportionate rates of asthma, cancer, and other illnesses among minority and low SES populations. I made a commitment to help prevent environmental health burdens among women and minority communities that I carried with me through diverse career and educational experiences."
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "PhD University of California Berkeley, Environmental heal Sciences, 2020\nMPH University of California Berkeley, Environmental Health Sciences, 2011\nBS University of California, Berkeley, BS Molecular Environmental Biology, 2003\nAA Merritt Community College, Oakland, General Education, 2000"
+    "text": "PhD University of California Berkeley, Environmental Health Sciences, 2020\nMPH University of California Berkeley, Environmental Health Sciences, 2011\nBS University of California, Berkeley, BS Molecular Environmental Biology, 2003\nAA Merritt Community College, Oakland, General Education, 2000"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "PhD University of California Berkeley, Environmental Health Sciences, 2020\nMPH University of California Berkeley, Environmental Health Sciences, 2011\nBS University of California, Berkeley, BS Molecular Environmental Biology, 2003\nAA Merritt Community College, Oakland, General Education, 2000"
   },
   {
     "objectID": "resume.html#experience",
@@ -33,5 +33,12 @@
     "title": "Welcome",
     "section": "",
     "text": "I’m a public health scientist currently working at UCSF Program on Reproductive Health and the Environment."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I had the fortune of growing up in California (USA) and Michoacan (Mexico). While living in Mexico I became aware from an early age that pollution can cause ill health and contribute to health disparities. I remember suffering from burning eyes and headaches when I visited Mexico City---the most polluted city in the world throughout the 1980’s---and wondering how the air pollution, unregulated pesticide use, or burning trash in villages might affect the health of the surrounding communities.\nThese questions stayed with me through college at UC Berkeley, while earning my BS in Molecular Environmental Biology, where I learned to describe what I had seen growing up in a developing country. It became clear to me that one’s surroundings can have long-term consequences on health and disparities were also apparent in the communities where I lived in the United States---disproportionate rates of asthma, cancer, and other illnesses among minority and low SES populations. I made a commitment to help prevent environmental health burdens among women and minority communities that I carried with me through diverse career and educational experiences."
   }
 ]
